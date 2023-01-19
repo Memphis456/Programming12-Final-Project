@@ -2,6 +2,7 @@
 
 
 **FOR THE IMAGE PREDICTION**<br>
+Download ResNet50 Model <br>
 The image is 1.jpg<br>
 
 To use your own images copy and paste it into the folder and name it "1" then delete any other images in the folder. You are then free to run the code.<br>
